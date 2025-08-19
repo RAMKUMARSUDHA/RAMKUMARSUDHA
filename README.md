@@ -20,23 +20,23 @@
 ## 🛠️ Tech Stack  
 
 ### 🎨 Frontend  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" />
 </p>
 
 ### ⚙️ Backend & Frameworks  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,nodejs,express,flask" />
 </p>
 
 ### 🤖 AI / ML  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
 </p>
 
 ### 🛠️ Tools & Platforms  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,firebase,docker,vscode" />
 </p>
 
