@@ -9,11 +9,13 @@
 ---
 
 ## 🔥 About Me
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
-- 🤖 Exploring **AI, Machine Learning, and Deep Learning**
-- 🔗 Working on **Blockchain in Healthcare & Agriculture**
-- 🌱 Currently learning **Next.js, Firebase, and Smart Contracts**
-- 💡 Love creating projects that blend **AI + Web + Blockchain**
+<p align="center">
+  🎓 Pursuing <b>B.Tech in Artificial Intelligence & Data Science</b><br>
+  🤖 Exploring <b>AI, Machine Learning, and Deep Learning</b><br>
+  🔗 Working on <b>Blockchain in Healthcare & Agriculture</b><br>
+  🌱 Currently learning <b>Next.js, Firebase, and Smart Contracts</b><br>
+  💡 Love creating projects that blend <b>AI + Web + Blockchain</b>
+</p>
 
 ---
 
