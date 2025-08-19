@@ -35,13 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
 </p>
 
-### ⛓️ Blockchain  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ethereum" />
-  <img src="https://img.icons8.com/?size=512&id=I4JuJpY8ZUj2&format=png" width="48" height="48" alt="Solidity"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ipfs/ipfs-original.svg" width="48" height="48"/>
-</p>
-
 ### 🛠️ Tools & Platforms  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,firebase,docker,vscode" />
