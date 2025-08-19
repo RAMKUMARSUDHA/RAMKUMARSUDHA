@@ -1,8 +1,10 @@
-# Hi there 👋, I'm Ramkumar  
+<h1 align="center">Hi there 👋, I'm <span style="color:#4E9F3D;">Ramkumar</span></h1>
 
-💻 **AI & Data Science Student | Aspiring AI Engineer | Blockchain Enthusiast**  
+<h3 align="center">💻 AI & Data Science Student | Aspiring AI Engineer | Blockchain Enthusiast</h3>
 
-🚀 Passionate about building intelligent systems, secure blockchain apps, and AI-powered solutions that make an impact.  
+<p align="center">
+  🚀 Passionate about building intelligent systems, secure blockchain apps, and AI-powered solutions that make an impact.  
+</p>
 
 ---
 
@@ -19,85 +21,63 @@
 
 ### 🎨 Frontend  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/>
-</p>  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" />
+</p>
 
 ### ⚙️ Backend & Frameworks  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/>
-</p>  
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,flask" />
+</p>
 
 ### 🤖 AI / ML  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/>
-</p>  
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
+</p>
 
 ### ⛓️ Blockchain  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=512&id=I4JuJpY8ZUj2&format=png" width="50" height="50" alt="Solidity"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ipfs/ipfs-original.svg" width="50" height="50"/>
-</p>  
+  <img src="https://skillicons.dev/icons?i=ethereum" />
+  <img src="https://img.icons8.com/?size=512&id=I4JuJpY8ZUj2&format=png" width="48" height="48" alt="Solidity"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ipfs/ipfs-original.svg" width="48" height="48"/>
+</p>
 
 ### 🛠️ Tools & Platforms  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
-</p>  
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,docker,vscode" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Ramkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAMKUMARSUDHA&show_icons=true&theme=tokyonight)  
+## 📊 GitHub Stats  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAMKUMARSUDHA&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAMKUMARSUDHA&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAMKUMARSUDHA&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me  
 
-<p align="left">
-  <!-- Gmail -->
-  <a href="mailto:ramkumarsudha741851@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40"/>
+<p align="center">
+  <a href="mailto:ramkumarsudha741851@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/ramkumar-subramani-324160314/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/ramkumar-subramani-324160314/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <!-- Portfolio -->
-  <a href="https://www.ramkumar.site" target="_blank">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-portfolio-web-flaticons-lineal-color-flat-icons.png" width="40" height="40"/>
+  <a href="https://www.ramkumar.site">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/YOUR-NUMBER" target="_blank">
-    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="40" height="40"/>
+  <a href="https://wa.me/YOUR-NUMBER">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
- 
 
 ---
 
-⭐️ *“AI + Blockchain = Future of Secure Intelligence.”* 🚀  
+<p align="center">⭐️ <i>“AI + Blockchain = Future of Secure Intelligence.”</i> 🚀</p>
