@@ -32,7 +32,7 @@
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: **ramkumarsudha741851@gmail.com**  
+- 📧 Email:(**ramkumarsudha741851@gmail.com**)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ramkumar-subramani-324160314/)
 - 🖥️ [Portfolio](www.ramkumar.site)
 
